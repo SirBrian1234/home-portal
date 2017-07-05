@@ -1,0 +1,12 @@
+<?php
+$file_enable='on';
+$file_password_enable='';
+$file_max_size='10';
+$file_password='';
+$rar='on';
+$zip='on';
+$jpg='on';
+$mp3='on';
+$txt='on';
+$torrent='on';
+?>

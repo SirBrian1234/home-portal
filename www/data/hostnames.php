@@ -1,0 +1,10 @@
+<?php
+$lan_hostname='';
+$wan_hostname='';
+$dynamic='no';
+$wan_port='4000';
+$dyndns='';
+$username='';
+$password='';
+$domain='';
+?>

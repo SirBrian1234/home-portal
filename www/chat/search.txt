@@ -1,0 +1,18 @@
+<div id="search">
+  <table id=search_prf cellspacing="0" cellpadding="0"><tr><td><input type="hidden" value="firefox-a" name="client2" />
+  <input type="hidden" value="org.mozilla:el:official" name="rls2" />
+  <input type="hidden" value="s" name="channel2" />
+  <input type="hidden" value="el" name="hl2" />
+  <input type="hidden" value="hp" name="source2" />
+  <input size="50" value="" name="sf" maxlength="256" id="sf2" />
+  <br />
+  <font size="-1">&Alpha;&nu;&alpha;&zeta;Þ&tau;&eta;&sigma;&eta;:
+  <input type="radio" checked="checked" value="" name="meta" id="all2" />
+  <label for="all2"> &pi;&alpha;&gamma;&kappa;ü&sigma;&mu;&iota;&omicron;&sigmaf; &iota;&sigma;&tau;ü&sigmaf; </label>
+  <input type="radio" value="lr=lang_el" name="meta" id="lgr2" />
+  <label for="lgr2"> &sigma;&epsilon;&lambda;ß&delta;&epsilon;&sigmaf; &sigma;&tau;&alpha; &Epsilon;&lambda;&lambda;&eta;&nu;&iota;&kappa;Ü </label>
+  <input type="radio" value="cr=countryGR" name="meta" id="cty2" />
+  <label for="cty2"> &sigma;&epsilon;&lambda;ß&delta;&epsilon;&sigmaf; &alpha;&pi;ü &Epsilon;&lambda;&lambda;Ü&delta;&alpha; </label>
+  </font><br />
+  <input type="submit" name="btnG2" value="&Alpha;&nu;&alpha;&zeta;Þ&tau;&eta;&sigma;&eta; Google" /></td></tr></table>
+</div>
