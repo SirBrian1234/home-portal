@@ -15,7 +15,7 @@ The project runs on php 5.3, 5.4
 Under Dev
 
 ## Install on Windows
-The user is suggested to install the xampp bundle and modify it accordingly to install Home Portal.
+The user is suggested to install the xampp bundle and modify it accordingly to install Home Portal over it.
 
 Download xampp 1.8.0 version which supports php 5.4 from the following url:
 https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/1.8.0/
